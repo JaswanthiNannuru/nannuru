@@ -17,4 +17,4 @@ This repositoty is about the publishing site and I used my old repositories for 
 ## Contributors
 Jaswanthi Nannuru
 Applied Computer Science
-![Hostedimage](https://en.wikipedia.org/wiki/Rose#/media/File:Roses_Boutons_FR_2012.jpg)
+![Hostedimage](https://upload.wikimedia.org/wikipedia/commons/c/c7/Roses_Boutons_FR_2012.jpg)
