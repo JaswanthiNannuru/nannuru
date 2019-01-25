@@ -1,7 +1,7 @@
 # nannuru
-Am jaswanthi from india is here in Northwest Missouri State University for my masters degree.
+Am jaswanthi from india is here in Northwest Missouri State University for my masters degree. All this belongs to WEB APPS.
 ## p1 publishing site
-yes this is my publishing site
+yes this is my publishing site and can look forward for all the publishing site.
 ## find the links below
 - [webpage](https://github.com/JaswanthiNannuru)
 - [source](https://github.com/JaswanthiNannuru/working-with-markdown)
