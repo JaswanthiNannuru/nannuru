@@ -17,4 +17,4 @@ This repositoty is about the publishing site and I used my old repositories for 
 ## Contributors
 Jaswanthi Nannuru
 Applied Computer Science
-![Hostedimage](https://upload.wikimedia.org/wikipedia/commons/5/5e/Authentic_Worcester-made_smiley_face%2C_Harvey_Ball.jpg)
+![Hostedimage](https://en.wikipedia.org/wiki/Rose#/media/File:Roses_Boutons_FR_2012.jpg)
